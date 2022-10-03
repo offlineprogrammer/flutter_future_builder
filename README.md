@@ -1,3 +1,5 @@
+[![HitCount](https://hits.dwyl.com/offlineprogrammer/flutter_future_builder.svg?style=flat-square&show=unique)](http://hits.dwyl.com/offlineprogrammer/flutter_future_builder)
+
 # flutter_future_builder
 
 A new Flutter project.
